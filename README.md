@@ -15,6 +15,6 @@ Sensor reading are sent to the Arduino and then soted in an SQL databse. <br/>
 
 # Code versions:
 -v1.0 - Reads data from sensor and displays it on the oled display with some additional icons. <br/>
---animation_code - Seperate program that creates a small animation for the display (it will be added to the main code later). <br/>
+--animation_oled - Seperate program that creates a small animation for the display (it will be added to the main code later). <br/>
 
 ### This is a work in progress.
