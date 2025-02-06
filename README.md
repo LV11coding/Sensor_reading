@@ -5,7 +5,8 @@ Sensor reading are sent to the Arduino and then soted in an SQL databse. <br/>
 -Arduino Uno <br/>
 -DHT11 (temperature and humidity sensor) <br/>
 -SSD1306 oled screen with i2c communication protocol <br/>
--jumper wires <br/>
+-Jumper wires <br/>
+
 # How it works:
 -DHT11 sensor read active temperature and humidity. <br/>
 -This data is sent to an Arduino, which displays it on the oled display. <br/>
